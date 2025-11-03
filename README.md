@@ -8,7 +8,7 @@ This repo contains a small numerical study of a spherical comet entering Earthâ€
 - Figures used in the report (PNG).
 
 **How it works**
-We integrate the equations of motion with RK4, using \(\rho(h)=\rho_0 e^{-h/H}\) and \(F_D=\tfrac12 C_D \rho A v^2\); with ablation on, the radius decreases at a small constant rate.
+We integrate the equations of motion with RK4, using $\rho(h)=\rho_0 e^{-h/H}$ and $F_D=\tfrac12 C_D \rho A v^2$; with ablation on, the radius decreases at a small constant rate.
 
 **What to look at**
 - Drag vs time for different entry angles and sizes.
